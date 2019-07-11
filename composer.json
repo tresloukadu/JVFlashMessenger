@@ -1,0 +1,10 @@
+{
+    "name": "JVFlashMessenger",
+    "description": "Plugin for creating and exposing flash messages via zend-mvc controllers",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "zf",
+        "zendframework",
+        "mvc"
+    ]
+}
